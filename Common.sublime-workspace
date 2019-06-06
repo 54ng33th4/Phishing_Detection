@@ -1,0 +1,322 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"ma",
+				"margin-top\tproperty"
+			],
+			[
+				"fo",
+				"font-weight\tproperty"
+			],
+			[
+				"mar",
+				"margin\tproperty"
+			],
+			[
+				"fl",
+				"float\tproperty"
+			],
+			[
+				"te",
+				"text-right"
+			],
+			[
+				"text",
+				"text-center"
+			],
+			[
+				"max",
+				"max-width\tproperty"
+			],
+			[
+				"co",
+				"color\tproperty"
+			],
+			[
+				"font",
+				"font-size\tproperty"
+			],
+			[
+				"ba",
+				"background-color\tproperty"
+			],
+			[
+				"di",
+				"display\tproperty"
+			],
+			[
+				"a",
+				"auto\tmargin-right"
+			],
+			[
+				"text-a",
+				"text-align\tproperty"
+			],
+			[
+				"tex",
+				"text-center"
+			],
+			[
+				"col",
+				"col-md-3"
+			],
+			[
+				"col-",
+				"col-md-6"
+			],
+			[
+				"margin",
+				"margin-left"
+			],
+			[
+				"padi",
+				"padding-left"
+			],
+			[
+				"print",
+				"print_r"
+			],
+			[
+				"dat",
+				"data"
+			],
+			[
+				"th",
+				"this"
+			],
+			[
+				"pass",
+				"password"
+			],
+			[
+				"em",
+				"email"
+			],
+			[
+				"na",
+				"name"
+			],
+			[
+				"in",
+				"input\tTag"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"menu",
+				"View: Toggle Menu"
+			],
+			[
+				"",
+				"Arithmetic"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 85.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/wamp/www/Davidluther/application/views/Product/add.php",
+		"/C/wamp/www/Davidluther/application/controllers/Product.php",
+		"/C/wamp/www/oop/david.php",
+		"/C/wamp/www/oop/Davidluther.php",
+		"/C/wamp/www/oop/fact.php",
+		"/C/wamp/www/oop/Factorial.php",
+		"/C/wamp/www/AiswaryaAds/application/views/GenInvoice/list.php",
+		"/C/Users/user/Desktop/Lijo/css/style.css",
+		"/C/Users/user/Desktop/Lijo/index.html",
+		"/C/wamp/www/TKR/application/views/Checkin/script.php",
+		"/C/wamp/www/TKR/application/views/Checkin/add.php",
+		"/C/wamp/www/Marvins-Inn/application/controllers/Dashboard.php",
+		"/C/wamp/www/TKR/application/views/Reservation/script.php",
+		"/C/wamp/www/TKR/application/views/Reservation/add.php",
+		"/C/wamp/www/TKR/application/views/Reservation/list.php",
+		"/C/wamp/www/Funriders/application/models/Fetch_data.php",
+		"/C/wamp/www/Funriders/application/views/Department/department.php",
+		"/C/wamp/www/Funriders/application/controllers/Department.php",
+		"/C/Users/user/Desktop/medha/index.html",
+		"/C/wamp/www/medha/style.css",
+		"/C/wamp/www/medha/index.html",
+		"/C/wamp/www/AiswaryaAds/application/controllers/Service.php",
+		"/C/wamp/www/AiswaryaAds/application/views/Service/add.php",
+		"/C/wamp/www/AiswaryaAds/application/views/Service/list.php",
+		"/C/wamp/www/AiswaryaAds/application/views/template/header.php",
+		"/C/wamp/www/AiswaryaAds/application/views/Service/script.php",
+		"/C/wamp/www/AiswaryaAds/assets/plugins/datatables/editor.dataTables.min.css",
+		"/C/wamp/www/Funriders/application/views/EmployeeReport/script.php",
+		"/C/wamp/www/Alain/application/controllers/user.php",
+		"/C/wamp/www/Funriders/application/views/EmployeeReport/list.php",
+		"/C/wamp/www/Gentleman/application/views/Issueroll/add.php",
+		"/C/wamp/www/Funriders/application/views/TeamManagement/add.php",
+		"/C/wamp/www/AiswaryaAds/application/views/Login/login.php",
+		"/C/wamp/www/Gentleman/application/controllers/Issueitem.php",
+		"/C/wamp/www/AdminLTE-2.4.2/pages/forms/Client_login.html",
+		"/C/wamp/www/Wh_Erp/application/views/Sale/invoice.php",
+		"/C/wamp/www/AdminLTE-2.4.2/pages/forms/Employee_register.html",
+		"/C/wamp/www/AdminLTE-2.4.2/pages/forms/Client_register.html",
+		"/C/Users/user/Downloads/AdminLTE-2.4.2/AdminLTE-2.4.2/pages/forms/general.html",
+		"/C/wamp/www/AdminLTE-2.4.2/pages/forms/advanced.html",
+		"/C/Users/user/Downloads/AdminLTE-2.4.2/AdminLTE-2.4.2/pages/forms/Client_register.html",
+		"/C/wamp/www/Alain/application/config/config.php",
+		"/C/wamp/www/codeigniter_test/application/config/database.php",
+		"/C/wamp/www/codeigniter_test/application/config/config.php",
+		"/C/wamp/www/Alain/application/controllers/Enquiry.php",
+		"/C/wamp/www/codeigniter_test/application/models/index.html",
+		"/C/wamp/www/codeigniter_test/application/models/Insert.php",
+		"/C/wamp/www/codeigniter_test/application/controllers/Data_entry.php",
+		"/C/wamp/www/codeigniter_test/application/controllers/Register.php",
+		"/C/wamp/www/codeigniter_test/application/views/Register.php"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Common.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
